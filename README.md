@@ -50,6 +50,7 @@ Current grade: 1 point. Resolve the problems to get other 2 points.
 Can not see what is done and what the result looks like.
 
 Current grade: 0. 
+
 ---------------------------------
 
 Current total project score: 5 points (potentiality 9).
